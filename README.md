@@ -41,4 +41,4 @@
   
   #
   
-  ![Snake animation](lucasnneto)
+  ![Snake animation](https://github.com/lucasnneto/lucasnneto/blob/output/github-contribution-grid-snake.svg)
