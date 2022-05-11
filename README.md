@@ -22,7 +22,7 @@
 <p align="left">
    <a href="https://www.linkedin.com/in/lucasnneto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:lucas-neto@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucas-neto@hotmail.com"><img src="https://img.shields.io/badge/-Portifolio-009782?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
+  <a href = "http://lucasnneto.herokuapp.com"><img src="https://img.shields.io/badge/-Portifolio-009782?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
 </p>
 
 #
