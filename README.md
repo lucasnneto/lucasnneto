@@ -4,6 +4,11 @@
   <img min-width="450px" max-width="250" width="250" align="right" src="https://raw.githubusercontent.com/lucasnneto/portifolio/24d036cf9615b3412eef539eb6885f1181e6950b/src/assets/icons/dev.svg" alt="dev"  />
   <div align="left">
     <p> <img src="https://komarev.com/ghpvc/?username=lucasnneto&label=Profile%20views&color=009782&style=flat" alt="lucasnneto" /> </p>
+    
+<p>DESENVOLVEDOR FULL-STACK</p>
+<p>Com ênfase em Front-end</p>
+
+Estou sempre buscando aprender coisas novas para resolução de desafios em design e performance.
 <ul>
   <li>🌱 Atualmente estou estudando <b>React, RN, Inglês</b></li>
   <li>
