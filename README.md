@@ -12,7 +12,7 @@ Estou sempre buscando aprender coisas novas para resolução de desafios em desi
 <ul>
   <li>🌱 Atualmente estou estudando <b>React, RN, Inglês</b></li>
   <li>
-    👨‍💻 Todos os meus projetos estão disponíveis em <a href="http://lucasnneto.herokuapp.com">http://lucasnneto.herokuapp.com</a>
+    👨‍💻 Todos os meus projetos estão disponíveis em <a href="https://lucasnneto.vercel.app">https://lucasnneto.vercel.app</a>
   
   </li>
   <li>💬 Pergunte-me sobre <b>Vue, Flutter, Node, TS</b></li>
@@ -27,7 +27,7 @@ Estou sempre buscando aprender coisas novas para resolução de desafios em desi
 <p align="left">
    <a href="https://www.linkedin.com/in/lucasnneto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:lucas-neto@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
-  <a href = "http://lucasnneto.herokuapp.com"><img src="https://img.shields.io/badge/-Portifolio-009782?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
+  <a href = "https://lucasnneto.vercel.app"><img src="https://img.shields.io/badge/-Portifolio-009782?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
 </p>
 
 #
