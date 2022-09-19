@@ -10,7 +10,7 @@
 
 Estou sempre buscando aprender coisas novas para resolução de desafios em design e performance.
 <ul>
-  <li>🌱 Atualmente estou estudando <b>React, RN, Inglês</b></li>
+  <li>🌱 Atualmente estou estudando <b>React, C#, Inglês</b></li>
   <li>
     👨‍💻 Todos os meus projetos estão disponíveis em <a href="https://lucasnneto.vercel.app">https://lucasnneto.vercel.app</a>
   
