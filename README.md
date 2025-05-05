@@ -39,11 +39,14 @@ Estou sempre buscando aprender coisas novas para resolução de desafios em desi
 #
   
 <a href="https://github.com/lucasnneto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnneto&show_icons=true&theme=gotham&custom_title=Status Github Lucas Neto"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnneto&layout=compact&langs_count=7&theme=gotham&custom_title=Linguagens mais usadas"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnneto&show_icons=true&theme=gotham&custom_title=Status%20Github%20Lucas%20Neto"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnneto&layout=compact&langs_count=7&theme=gotham&custom_title=Linguagens%20mais%20usadas"/>   
 </a>
   </div>
   
   #
-  
-  ![Snake animation](https://github.com/lucasnneto/lucasnneto/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
