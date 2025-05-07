@@ -1,20 +1,24 @@
-name: Generate Datas
+name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
     steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: lucasnneto
-
-          outputs:
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
