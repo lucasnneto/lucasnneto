@@ -45,8 +45,5 @@ Estou sempre buscando aprender coisas novas para resolução de desafios em desi
   </div>
   
   #
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+ ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
